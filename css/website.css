@@ -1,0 +1,16 @@
+	body {
+		background-color: black
+	}
+
+.order {
+	display: inline-block;
+	border: solid teal;
+	color: white;
+	background: #1d1d1d;
+	padding: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	width: 250px;
+	height: 400px;
+	margin: 15px;
+}
