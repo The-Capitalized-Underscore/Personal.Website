@@ -41,7 +41,7 @@
 	.text {
 		text-align: center;
 		padding-left: 20px;
-		padding-right: 20x;
+		padding-right: 20px;
 		line-height: 25px;
 	}
 	.secret {
@@ -58,3 +58,12 @@
 	.link {
 		color: #8FBC8F;
 	}
+	details > summary {
+		font-size: 20px;
+	}
+	
+	
+	
+	
+	
+	
