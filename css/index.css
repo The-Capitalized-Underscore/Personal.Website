@@ -4,6 +4,9 @@
 		color: white;
 		margin: 20px;
 	}
+	hr {
+		width: 80%;
+	}
 	.top {
 		padding: 15px;
 		text-align: center;
@@ -36,9 +39,10 @@
 			padding-top: 0px;
 		}
 	.text {
-		text-align: left;
-		padding-left: 10px;
-		padding-right: 10px;
+		text-align: center;
+		padding-left: 20px;
+		padding-right: 20x;
+		line-height: 25px;
 	}
 	.secret {
 		width: 10%;
@@ -50,4 +54,7 @@
 	}
 	.secret:hover {
 		background: red;
+	}
+	.link {
+		color: #8FBC8F;
 	}
